@@ -2,4 +2,5 @@ Pemanasan
 Jumindong
 Plyometric
 Technic
+Gyeorugi
 Cooldown
